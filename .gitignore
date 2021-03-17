@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 setting.py
+*.png
 __pycache__/
